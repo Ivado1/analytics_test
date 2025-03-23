@@ -107,6 +107,25 @@
 3. **Стилизация:**
     - Для более профессионального внешнего вида можно использовать TailwindCSS.
 
+## Часть 3: Соединение с CUBE js
+
+**Документация** 
+
+https://cube.dev/docs/product/introduction
+
+**Задание**
+
+Запустить в папке cube/docker-compose-local.yml.
+
+Перенести этот запрос в cube, создав dimensions и measures  (https://cube.dev/docs/product/data-modeling/overview#1-creating-a-cube)
+
+Создать файлы в папке model/cubes
+
+C помощью React интеграции https://cube.dev/docs/product/apis-integrations/javascript-sdk/react
+
+Вывести данные в таблицу из части 2
+
+
 ---
 
 ### Финальный результат:
